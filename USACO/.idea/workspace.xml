@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a8bfc7-894f-4e99-b929-e90c0ad46f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/beads.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/milk2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/milk2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/friday.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/friday.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/beads.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/beads.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gift1.java">
+        <entry file="file://$PROJECT_DIR$/milk2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="48" column="91" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="91" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/beads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,22 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/friday.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="92" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="92" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beads.java">
+        <entry file="file://$PROJECT_DIR$/src/milk2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
               <folding>
-                <element signature="e#0#301#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -72,10 +71,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grassPlanting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="68" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/friday.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <caret selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -108,6 +116,9 @@
         <option value="$PROJECT_DIR$/src/friday.java" />
         <option value="$PROJECT_DIR$/beads.txt" />
         <option value="$PROJECT_DIR$/src/beads.java" />
+        <option value="$PROJECT_DIR$/src/milk2.txt" />
+        <option value="$PROJECT_DIR$/milk2.txt" />
+        <option value="$PROJECT_DIR$/src/milk2.java" />
       </list>
     </option>
   </component>
@@ -124,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,12 +152,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550638125915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550732546480" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-11.0.1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -155,6 +166,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Code\RandomWork\USACO" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,14 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.beads">
-    <configuration name="BucketList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BucketList" />
-      <module name="USACO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.milk2">
     <configuration name="beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beads" />
       <module name="USACO" />
@@ -197,6 +206,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="milk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="milk2" />
+      <module name="USACO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ride" />
       <module name="USACO" />
@@ -206,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.milk2" />
         <item itemvalue="Application.beads" />
         <item itemvalue="Application.friday" />
         <item itemvalue="Application.gift1" />
         <item itemvalue="Application.ride" />
-        <item itemvalue="Application.BucketList" />
       </list>
     </recent_temporary>
   </component>
@@ -228,16 +244,18 @@
       <workItem from="1550542122665" duration="6031000" />
       <workItem from="1550632527172" duration="289000" />
       <workItem from="1550633199256" duration="5003000" />
+      <workItem from="1550729753040" duration="2782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11433000" />
+    <option name="totallyTimeSpent" value="14215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20071685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20310633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,7 +264,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/planting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="44" column="94" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mixmilk.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -325,10 +336,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beads.txt">
+    <entry file="file://$PROJECT_DIR$/src/friday.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="578">
+          <caret line="34" column="92" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/planting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="44" column="94" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IcyPerimeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grassPlanting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -339,26 +381,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/beads.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/friday.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <caret selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/friday.java">
+    <entry file="file://$PROJECT_DIR$/milk2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="92" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="92" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beads.java">
+    <entry file="file://$PROJECT_DIR$/src/milk2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        <state relative-caret-position="442">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
           <folding>
-            <element signature="e#0#301#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
