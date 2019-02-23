@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a8bfc7-894f-4e99-b929-e90c0ad46f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/transform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namenum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/namenum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/milk2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/milk2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/transform.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/transform.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +21,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transform.txt">
+        <entry file="file://$PROJECT_DIR$/src/ride.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="323">
+              <caret line="19" column="92" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="92" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/transform.java">
+        <entry file="file://$PROJECT_DIR$/src/namenum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="476">
+              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#994#1002#0" expanded="true" />
+                <element signature="e#927#935#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ride.java">
+        <entry file="file://$PROJECT_DIR$/namenum.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="73" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="73" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dict.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="727">
+              <caret line="4616" column="4" selection-start-line="4616" selection-start-column="4" selection-end-line="4616" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -82,6 +94,9 @@
         <option value="$PROJECT_DIR$/src/milk2.java" />
         <option value="$PROJECT_DIR$/transform.txt" />
         <option value="$PROJECT_DIR$/src/transform.java" />
+        <option value="$PROJECT_DIR$/dict.txt" />
+        <option value="$PROJECT_DIR$/namenum.txt" />
+        <option value="$PROJECT_DIR$/src/namenum.java" />
       </list>
     </option>
   </component>
@@ -121,7 +136,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550810107644" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550897654421" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-11.0.1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.transform">
+  <component name="RunManager" selected="Application.namenum">
     <configuration name="beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beads" />
       <module name="USACO" />
@@ -162,15 +177,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gift1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gift1" />
+    <configuration name="milk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="milk2" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="milk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="milk2" />
+    <configuration name="namenum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="namenum" />
       <module name="USACO" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.namenum" />
         <item itemvalue="Application.transform" />
         <item itemvalue="Application.milk2" />
         <item itemvalue="Application.beads" />
         <item itemvalue="Application.friday" />
-        <item itemvalue="Application.gift1" />
       </list>
     </recent_temporary>
   </component>
@@ -208,18 +223,19 @@
       <workItem from="1550632527172" duration="289000" />
       <workItem from="1550633199256" duration="5003000" />
       <workItem from="1550729753040" duration="2923000" />
-      <workItem from="1550807754026" duration="2266000" />
+      <workItem from="1550807754026" duration="2504000" />
+      <workItem from="1550893663410" duration="3976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16622000" />
+    <option name="totallyTimeSpent" value="20836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20549582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20788531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,8 +243,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19309261" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -369,10 +385,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ride.java">
+    <entry file="file://$PROJECT_DIR$/src/transform.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="73" />
+        <state relative-caret-position="427">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -383,12 +402,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/transform.java">
+    <entry file="file://$PROJECT_DIR$/dict.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        <state relative-caret-position="727">
+          <caret line="4616" column="4" selection-start-line="4616" selection-start-column="4" selection-end-line="4616" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namenum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/namenum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#994#1002#0" expanded="true" />
+            <element signature="e#927#935#0" expanded="true" />
           </folding>
         </state>
       </provider>
