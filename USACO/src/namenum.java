@@ -37,56 +37,6 @@ public class namenum {
         br.close();
 
     }
-    public boolean letterCombinations2(String digits) {
-        List<String> list = new ArrayList<String>();
-        if(!digits.isEmpty()) {
-           if(helper(digits, "", 0, list)==1){
-               return true;
-           }
-        }
-        return false;
-    }
-
-    public int helper(String digits, String combo, int position, List<String> list) {
-        if(position == digits.length()) {
-            list.add(combo);
-            if(nameDict.contains(combo)){
-
-                out.println(combo);
-                return 1;
-
-            }
-           return 0;
-        }
-        String[] letters = getMapping(digits.charAt(position));
-        for(int i = 0; i < letters.length; i++){
-            helper(digits, combo + letters[i], position + 1, list);
-        }
-        return 0;
-    }
-
-    public String[] getMapping(char c) {
-        switch (c) {
-            case '2':
-                return new String[] {"a", "b", "c"};
-            case '3':
-                return new String[] {"d", "e", "f"};
-            case '4':
-                return new String[] {"g", "h", "i"};
-            case '5':
-                return new String[] {"j", "k", "l"};
-            case '6':
-                return new String[] {"m", "n", "o"};
-            case '7':
-                return new String[] {"p", "q", "r", "s"};
-            case '8':
-                return new String[] {"t", "u", "v"};
-            case '9':
-                return new String[] {"w", "x", "y", "z"};
-        }
-
-        return new String[] {};
-    }
     public static boolean letterCombinations(String digits) {
         LinkedList<String> ans = new LinkedList<String>();
         if(digits.isEmpty()) return false;
