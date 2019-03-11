@@ -8,6 +8,7 @@ import com.google.gson.JsonParser;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.util.Arrays;
 
 public class mainTest {
     public static void main (String[]args){
@@ -34,7 +35,6 @@ public class mainTest {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         OuterURL bob = new Gson().fromJson(resultString,OuterURL.class);
 
         String selfLink = bob.items.get(0).selfLink;
@@ -64,8 +64,13 @@ public class mainTest {
         JsonParser parser = new JsonParser();
         JsonObject obj = parser.parse(resultString2).getAsJsonObject();
         JsonObject obj2 = obj.get("volumeInfo").getAsJsonObject();
-        JsonElement obj3 = obj2.get("description");
-        System.out.println(obj3.getAsString());
+        JsonElement subTitle = obj2.get("subtitle");
+        JsonElement descrip = obj2.get("description");
+        System.out.println(descrip.getAsString());
+        System.out.println(subTitle.getAsString());
+        JsonElement categories = obj2.get("categories");
+        String[] elements = new Gson().fromJson(categories.toString(),String[].class);
+        System.out.println(Arrays.toString(elements));
 
     }
 

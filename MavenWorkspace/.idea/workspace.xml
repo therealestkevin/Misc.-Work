@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92ba28f1-ab6b-430a-b820-1d234872ad11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_13_v20150730.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_13_v20150730.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_13_v20150730.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_13_v20150730.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_13_v20150730.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/language-entities.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/test1/mainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/DateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/InnerURL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/InnerURL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/OuterURL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/OuterURL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/PDF.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/PDF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/QuizletAPI$Choice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/QuizletAPI$Choice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/QuizletAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/QuizletAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/SearchInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/SearchInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/accInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/accInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/ePub.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/ePub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/gson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/gson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/imgLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/imgLinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/indID.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/indID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/panelSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/panelSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/randomWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/randomWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/readMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/readMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/sellInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/sellInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/volInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/volInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/test1/work.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/test1/work.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/test1/mainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/test1/mainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/test1/mainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+            <state relative-caret-position="704">
+              <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,7 +110,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552268175217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552268675154" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -211,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552267206131</updated>
-      <workItem from="1552267216258" duration="933000" />
+      <workItem from="1552267216258" duration="1450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="933000" />
+    <option name="totallyTimeSpent" value="1450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1712" y="0" width="1735" height="1407" extended-state="0" />
@@ -260,8 +210,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/test/test1/mainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+        <state relative-caret-position="704">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
