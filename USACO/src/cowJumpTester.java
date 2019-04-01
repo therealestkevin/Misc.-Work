@@ -1,12 +1,11 @@
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class cowJumpTester {
     public static void main(String[] args) throws IOException {
         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("cowjump.out")));
-        BufferedReader f = new BufferedReader(new FileReader("cowjump.txt"));
+        BufferedReader f = new BufferedReader(new FileReader("cowjump.in"));
 
         int N = Integer.parseInt(f.readLine());
         int[][] coOrd = new int[N][4];
@@ -18,17 +17,18 @@ public class cowJumpTester {
             coOrd[i][2] = Integer.parseInt(st.nextToken());
             coOrd[i][3] = Integer.parseInt(st.nextToken());
         }
-        System.out.println(Arrays.deepToString(coOrd));
+
         f.close();
 
 
-            System.out.println(FindIndexToRemove(N,coOrd));
+            out.println(FindIndexToRemove(N,coOrd));
 
 
         out.close();
 
 
     }
+
     public static int FindIndexToRemove(int n, int[][] positions)
     {
         int index = 0;
@@ -49,6 +49,15 @@ public class cowJumpTester {
                 {
                     overlap.add(j);
                     overlaps.get(j).add(i);
+                    if (overlap.size() >= 2)
+                    {
+                        return i +1;
+                    }
+
+                    if (overlaps.get(j).size() >=2)
+                    {
+                        return j +1;
+                    }
                 }
             }
         }
@@ -64,7 +73,7 @@ public class cowJumpTester {
                 overlapMax = overlap;
             }
         }
-        return itemWithMoreOverlap;
+        return itemWithMoreOverlap + 1;
     }
 
     public static boolean checkOverlap(int[] line1, int[] line2)
@@ -86,11 +95,26 @@ public class cowJumpTester {
         int xMax2 = Math.max(line2[0], line2[2]);
         int yMin2 = Math.min(line2[1], line2[3]);
         int yMax2 = Math.max(line2[1], line2[3]);
-        if (xMax == xMin || xMin2 == xMin2)
+
+        if (xMin == xMax && yMin == yMax ||
+                xMin2 == xMax2 && yMin2 == yMax2) {
+            return xMin == xMin2 && yMin == yMin2;
+        }
+
+        if (xMax == xMin || xMin2 == xMax2)
         {
-            if (xMax == xMin && xMin2 == xMin2 && xMin != xMin2)
+            if (xMax == xMin && xMin2 == xMax2)
             {
-                return false;
+                return xMin == xMin2;
+            }
+            // one is vertical but the other one is not
+            if (xMax == xMin)
+            {
+                return xMin2 <= xMin && xMax2 >= xMin;
+            }
+            else if (xMax2 == xMin2)
+            {
+                return xMin <= xMin2 && xMax >= xMin2;
             }
         }
         else
@@ -109,7 +133,9 @@ public class cowJumpTester {
             }
             // different slope
             double x = (intercep2 - intercep1)/(slope1 - slope2);
-            if (x >= xMin && x <= xMax)
+            double y = slope1*x + intercep1;
+            if (x >= xMin && x <= xMax &&
+                    y >= yMin && y <= yMax)
             {
                 return true;
             }
@@ -117,6 +143,8 @@ public class cowJumpTester {
 
         return false;
     }
+
+
 
 
 

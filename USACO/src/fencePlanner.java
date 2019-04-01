@@ -32,7 +32,7 @@ public class fencePlanner {
         out.close();
     }
 
-    // for cowConnections, coverted to 0 based array indexes
+    // for cowConnections, converted to 0 based array indexes
     public static int FindMinSize(int n, int m, int[][] cowPositions, int[][] cowConnections) {
         int[] parents = new int[n];
         ArrayList<ArrayList<Integer>> lists = new ArrayList<ArrayList<Integer>>(n);
