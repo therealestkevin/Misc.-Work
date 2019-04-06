@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - skylines",
+            "request": "launch",
+            "mainClass": "skylines",
+            "projectName": "Work"
+        }
+    ]
+}
