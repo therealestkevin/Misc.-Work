@@ -1,14 +1,16 @@
+package Training;
+
 import java.io.*;
 import java.util.Arrays;
 
 /*
 ID: kevinxu4
 LANG: JAVA
-TASK: transform
+TASK: Training.transform
 */
 public class transform {
     public static void main (String[]args) throws IOException{
-        BufferedReader f = new BufferedReader(new FileReader("transform.in"));
+        BufferedReader f = new BufferedReader(new FileReader("Training.transform.in"));
         int status = Integer.parseInt(f.readLine());
         char[][] bob= new char[status][status];
         for(int i=0; i<status;i++){
@@ -28,7 +30,7 @@ public class transform {
         }
         System.out.println(Arrays.deepToString(resulting));
         System.out.println(Arrays.deepToString(rotate90(resulting)));
-        PrintWriter out = new PrintWriter( new BufferedWriter( new FileWriter("transform.out")));
+        PrintWriter out = new PrintWriter( new BufferedWriter( new FileWriter("Training.transform.out")));
                 if(Arrays.deepEquals(rotate90(bob),resulting)){
                     out.println(1);
                 }else if(Arrays.deepEquals(rotate90(rotate90(bob)),resulting)){

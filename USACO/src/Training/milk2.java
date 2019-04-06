@@ -1,3 +1,5 @@
+package Training;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,11 +8,11 @@ import java.util.StringTokenizer;
 /*
 ID: kevinxu4
 LANG: JAVA
-TASK: milk2
+TASK: Training.milk2
 */
 public class milk2 {
     public static void main (String[]args) throws IOException {
-        BufferedReader f = new BufferedReader(new FileReader("milk2.in"));
+        BufferedReader f = new BufferedReader(new FileReader("Training.milk2.in"));
         int num = Integer.parseInt(f.readLine());
         ArrayList<Integer> totalNum = new ArrayList<>();
 
@@ -36,7 +38,7 @@ public class milk2 {
             }
         }
         System.out.println(Arrays.toString(milkTrack));
-        PrintWriter out = new PrintWriter( new BufferedWriter( new FileWriter("milk2.out")));
+        PrintWriter out = new PrintWriter( new BufferedWriter( new FileWriter("Training.milk2.out")));
         int maxCont=0;
         int maxIdle =0;
         boolean isStart=true;

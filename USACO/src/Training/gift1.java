@@ -1,3 +1,5 @@
+package Training;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -5,11 +7,11 @@ import java.util.StringTokenizer;
 /*
 ID: kevinxu4
 LANG: JAVA
-TASK: gift1
+TASK: Training.gift1
 */
 public class gift1 {
     public static void main (String[]args) throws IOException {
-        BufferedReader f = new BufferedReader(new FileReader("gift1.in"));
+        BufferedReader f = new BufferedReader(new FileReader("Training.gift1.in"));
         int nameCount = Integer.parseInt(f.readLine());
         HashMap<String,Integer> moneyTrack = new HashMap<>();
         ArrayList<String> nameHolder = new ArrayList<>();
@@ -46,7 +48,7 @@ public class gift1 {
 
 
         }
-        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("gift1.out")));
+        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("Training.gift1.out")));
         for(int i=0; i<moneyTrack.size();i++) {
 
             out.println(nameHolder.get(i) + " " + moneyTrack.get(nameHolder.get(i)));

@@ -1,13 +1,15 @@
+package Training;
+
 import java.io.*;
 
 public class friday {
     /*
 ID: kevinxu4
 LANG: JAVA
-TASK: friday
+TASK: Training.friday
 */
     public static void main (String[]args) throws IOException {
-        BufferedReader f = new BufferedReader(new FileReader("friday.in"));
+        BufferedReader f = new BufferedReader(new FileReader("Training.friday.in"));
         int years = Integer.parseInt(f.readLine());
         int[] monthDays = {31,28,31,30,31,30,31,31,30,31,30,31};
         int[] fridayCount= new int[7];
@@ -32,7 +34,7 @@ TASK: friday
             }
 
         }
-        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("friday.out")));
+        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("Training.friday.out")));
         out.print(fridayCount[5]+" "+fridayCount[6]);
         for(int i=0;i<5;i++){
             out.print(" "+fridayCount[i]);

@@ -1,4 +1,4 @@
-
+package Training;
 /*
 ID: kevinxu8099
 LANG: JAVA
