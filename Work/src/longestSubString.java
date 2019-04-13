@@ -7,7 +7,7 @@ public class longestSubString {
 
     public static int lengthOfLongestSubstring(String s) {
             char[] toChar = s.toCharArray();
-            int max = -1;
+            int max = 0;
             for(int i=0; i<toChar.length;i++){
                 if(max>toChar.length-i){
                     return max;
