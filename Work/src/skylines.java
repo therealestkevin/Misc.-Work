@@ -19,7 +19,7 @@ public class skylines{
             maxes[i] = max;
             maxes[i+grid.length] = max2;
         }
-       System.out.println(Arrays.toString(maxes));
+       
        int potentialAdd = 0;
        for(int i=0; i<grid.length;i++){
            for(int j=0; j<grid[i].length;j++){
