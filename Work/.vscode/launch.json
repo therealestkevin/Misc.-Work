@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - longestPrefix",
             "request": "launch",
             "mainClass": "longestPrefix",
@@ -12,6 +13,11 @@
             "name": "CodeLens (Launch) - containerMost",
             "request": "launch",
             "mainClass": "containerMost",
+=======
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+>>>>>>> master
             "projectName": "Work"
         },
         {
