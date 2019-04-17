@@ -1,4 +1,3 @@
-import java.util.List;
 
 public class addTwo {
     public static void main(String[]args){

@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - longestPrefix",
+            "request": "launch",
+            "mainClass": "longestPrefix",
+            "projectName": "Work"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - containerMost",
+            "request": "launch",
+            "mainClass": "containerMost",
+            "projectName": "Work"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - skylines",
             "request": "launch",
             "mainClass": "skylines",
