@@ -3,6 +3,12 @@ public class longestPrefix{
       System.out.println(longestCommonPrefix(new String[] {"flower", "flow","flight"}));
     }
     public static String longestCommonPrefix(String[] strs) {
+        if(strs.length==0){
+            return "";
+        }
+        if(strs.length==1){
+            return strs[0];
+        }
         int minLength = Integer.MAX_VALUE;
         for(String s : strs){
             minLength = Math.min(s.length(),minLength);

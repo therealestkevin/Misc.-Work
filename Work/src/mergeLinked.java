@@ -1,0 +1,49 @@
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class mergeLinked{
+    public static void main(String[] args) {
+        ListNode root = new ListNode(1);
+        root.next = new ListNode(2);
+        root.next.next = new ListNode(4);
+        ListNode root2 = new ListNode(1);
+        root2.next = new ListNode(3);
+        root2.next.next = new ListNode(4);
+        ListNode result =mergeTwoLists(root, root2);
+    }
+    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ArrayList<Integer> holdNums = new ArrayList<>();
+        holdNums.add(l1.val);
+        while(l1.next!=null){
+              l1 = l1.next;
+              holdNums.add(l1.val);
+        }
+        holdNums.add(l2.val);
+        while(l2.next!=null){
+           
+            l2 = l2.next; 
+            holdNums.add(l2.val);
+        }
+
+        Collections.sort(holdNums);
+        ListNode result = new ListNode(holdNums.get(0));
+        ListNode resultTracker = result;
+        for(int i =1; i<holdNums.size();i++){
+            result.next = new ListNode(holdNums.get(i));
+
+            result = result.next;
+        }
+        System.out.println(holdNums);
+        return resultTracker;
+
+        
+        
+    }
+
+
+    public static class ListNode {
+             int val;
+             ListNode next;
+             ListNode(int x) { val = x; }
+         }
+}
