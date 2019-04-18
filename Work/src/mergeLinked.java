@@ -10,21 +10,28 @@ public class mergeLinked{
         root2.next = new ListNode(3);
         root2.next.next = new ListNode(4);
         ListNode result =mergeTwoLists(root, root2);
+
     }
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if(l1==null&l2==null){
+            return null;
+        }
         ArrayList<Integer> holdNums = new ArrayList<>();
+        if(l1!=null){
         holdNums.add(l1.val);
         while(l1.next!=null){
               l1 = l1.next;
               holdNums.add(l1.val);
         }
+    }
+    if(l2!=null){
         holdNums.add(l2.val);
         while(l2.next!=null){
            
             l2 = l2.next; 
             holdNums.add(l2.val);
         }
-
+    }
         Collections.sort(holdNums);
         ListNode result = new ListNode(holdNums.get(0));
         ListNode resultTracker = result;
