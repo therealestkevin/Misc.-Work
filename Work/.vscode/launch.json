@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - longestSubArray",
+            "request": "launch",
+            "mainClass": "longestSubArray",
+            "projectName": "Work"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - validParen",
             "request": "launch",
             "mainClass": "validParen",
