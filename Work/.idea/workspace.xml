@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8aacd1-ca8c-496f-ba47-d356279cd2dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/src/Runnable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runnable1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/src/Runnable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runnable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/src/SchoolWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/src/SqrRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SqrRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KevinX/src/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/longestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSubString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/addTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="374">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -49,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/longestSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="272">
               <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
@@ -62,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="187">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -135,13 +141,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555116321401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556606371364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Code\RandomWork\Work\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,11 +219,13 @@
       <workItem from="1554868745671" duration="3792000" />
       <workItem from="1555047841376" duration="594000" />
       <workItem from="1555115695670" duration="1214000" />
+      <workItem from="1556606215009" duration="60000" />
+      <workItem from="1556606305670" duration="104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7906000" />
+    <option name="totallyTimeSpent" value="8070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,9 +238,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26164874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26762247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,14 +308,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/addTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="374">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/longestSubString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="272">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
@@ -314,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
