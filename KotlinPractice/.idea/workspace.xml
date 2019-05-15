@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60faa359-d044-42db-aac1-f59498b83dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/syntaxPrac.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Work/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Work/.vscode/launch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Work/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Work/bin/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Work/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Work/src/Test.java" afterDir="false" />
@@ -87,8 +85,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,6 +94,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556778425978" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -160,17 +159,18 @@
       <workItem from="1556778254723" duration="218000" />
       <workItem from="1556778815405" duration="120000" />
       <workItem from="1556778963628" duration="175000" />
+      <workItem from="1557953309799" duration="5000" />
+      <workItem from="1557954667992" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5448000" />
+    <option name="totallyTimeSpent" value="5478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26164874" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26762247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
