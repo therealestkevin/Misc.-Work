@@ -1,8 +1,23 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.PriorityQueue;
+import java.util.Queue;
+import java.util.Stack;
+
 
 public class mergeLinked{
     public static void main(String[] args) {
+        Stack<Integer> bob = new Stack<>();
+        bob.push(1);
+        //System.out.println(bob.peek());
+        //System.out.println(bob.pop());
+        Queue<Integer> bob1 = new PriorityQueue<>();
+                bob1.add(2);
+                bob1.add(1);
+
+                for(int a : bob1){
+                    System.out.println(a);
+                }
         ListNode root = new ListNode(1);
         root.next = new ListNode(2);
         root.next.next = new ListNode(4);

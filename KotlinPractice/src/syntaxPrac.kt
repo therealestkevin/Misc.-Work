@@ -1,6 +1,6 @@
 
 
-fun main(args : Array<String>){
+fun main(){
     println(getStringLength("hello"))
     var testArray = listOf<Int>(3,2,2,2)
     printArray(testArray)
