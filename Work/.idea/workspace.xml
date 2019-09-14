@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8aacd1-ca8c-496f-ba47-d356279cd2dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../KotlinPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConwayGameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IBCS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/IBCPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/IBCPStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/IBDPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/IBDPStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Mathematics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Mathematics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/PLUProblems.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PLUProblems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Quadratics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Quadratics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Question4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Runnable1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Runnable1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Runnable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Runnable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SchoolWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SchoolWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/SqrRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SqrRoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/addTwo$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/addTwo$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/addTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/addTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/containerMost.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/containerMost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/findCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/findCombination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jewels.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jewels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/longestPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/longestSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/longestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mergeLinked$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mergeLinked$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mergeLinked.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mergeLinked.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rangeSum$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rangeSum$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rangeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rangeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/removeDup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/removeDup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/removeOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/removeOuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skylines.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skylines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/validParen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/validParen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -16,8 +47,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -73,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="62" column="1" lean-forward="true" selection-end-line="62" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="e#806#807#0" expanded="true" />
                 <element signature="e#836#837#0" expanded="true" />
@@ -91,6 +121,18 @@
                 <element signature="e#1134#1135#0" expanded="true" />
                 <element signature="e#1185#1186#0" expanded="true" />
                 <element signature="e#1231#1232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IBCS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,6 +167,8 @@
         <option value="$PROJECT_DIR$/src/longestSubString.java" />
         <option value="$PROJECT_DIR$/src/palindrome.java" />
         <option value="$PROJECT_DIR$/src/Car.java" />
+        <option value="$PROJECT_DIR$/src/ConwayGameOfLife.java" />
+        <option value="$PROJECT_DIR$/src/IBCS.java" />
       </list>
     </option>
   </component>
@@ -141,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +201,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -167,6 +211,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556606371364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -190,7 +240,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.palindrome">
+  <component name="RunManager" selected="Application.IBCS">
+    <configuration name="ConwayGameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConwayGameOfLife" />
+      <module name="Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IBCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IBCS" />
+      <module name="Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="addTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="addTwo" />
       <module name="Work" />
@@ -212,19 +276,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rangeSum" />
-      <module name="Work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IBCS" />
+        <item itemvalue="Application.ConwayGameOfLife" />
         <item itemvalue="Application.palindrome" />
         <item itemvalue="Application.longestSubString" />
         <item itemvalue="Application.addTwo" />
-        <item itemvalue="Application.rangeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -246,11 +304,13 @@
       <workItem from="1556606215009" duration="60000" />
       <workItem from="1556606305670" duration="104000" />
       <workItem from="1557954698992" duration="143000" />
+      <workItem from="1567745454518" duration="951000" />
+      <workItem from="1568495028806" duration="531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8213000" />
+    <option name="totallyTimeSpent" value="9695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,7 +325,7 @@
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27060932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +334,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,6 +372,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -357,17 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="62" column="1" lean-forward="true" selection-end-line="62" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="e#806#807#0" expanded="true" />
             <element signature="e#836#837#0" expanded="true" />
@@ -381,6 +441,26 @@
             <element signature="e#1134#1135#0" expanded="true" />
             <element signature="e#1185#1186#0" expanded="true" />
             <element signature="e#1231#1232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConwayGameOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

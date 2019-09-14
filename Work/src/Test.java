@@ -10,8 +10,26 @@ public class Test{
             int a=4;
             for (int i = 6; i < -3; i -= 3)
             System.out.println( i + "");*/
-            int bob;
-            System.out.println(bob);
+           // int bob;
+           // System.out.println(bob);
+
+           Tupac[] elements = {new Biggie(), new Tupac(), new JayZ(), new FiftyCent()};
+
+for (int i = 0; i < elements.length; i++) {
+
+    elements[i].a();
+
+    System.out.println();
+
+    elements[i].b();
+
+    System.out.println();
+
+    System.out.println(elements[i]);
+
+    System.out.println();
+
+}
     }
 
     public static boolean isSum(int []nums, int k){
@@ -28,6 +46,74 @@ public class Test{
             
         }
         return false;
+    }
+    public static class Biggie extends JayZ {
+
+        public void a() {
+    
+            System.out.print("Biggie a   ");
+    
+            super.a();
+    
+        }
+    
+     
+    
+        public String toString() {
+    
+            return "Biggie";
+    
+        }
+    
+    }
+    
+     
+    
+    public static class JayZ extends Tupac {
+    
+        public void a() {
+    
+            System.out.print("JayZ a   ");
+    
+            b();
+    
+        }
+    
+    }
+    public static class FiftyCent extends Biggie {
+
+        public void b() {
+    
+            System.out.print("FiftyCent b   ");
+    
+        }
+    
+    }
+    
+    public static class Tupac {
+    
+        public void a() {
+    
+            System.out.print("Tupac a   ");
+    
+        }
+    
+     
+    
+        public void b() {
+    
+            System.out.print("Tupac b   ");
+    
+        }
+    
+     
+    
+        public String toString() {
+    
+            return "Tupac";
+    
+        }
+    
     }
    /* public int update(player[] transaction, player[] master){
         int totalGoals=0;
