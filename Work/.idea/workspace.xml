@@ -2,143 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8aacd1-ca8c-496f-ba47-d356279cd2dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConwayGameOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IBCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assasin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookProbCh14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FiveExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedAssasin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedIntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeniorAssasin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memoryMapped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postFix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/IBCPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/IBCPStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/IBDPStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/IBDPStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Mathematics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Mathematics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/PLUProblems.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PLUProblems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Quadratics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Quadratics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Question4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Runnable1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Runnable1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Runnable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Runnable2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SchoolWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SchoolWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SqrRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/SqrRoot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/addTwo$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/addTwo$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/addTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/addTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/containerMost.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/containerMost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/findCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/findCombination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/jewels.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jewels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/longestPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/longestSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/longestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/longestSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/mergeLinked$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mergeLinked$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/mergeLinked.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/mergeLinked.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/rangeSum$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rangeSum$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/rangeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rangeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/removeDup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/removeDup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/removeOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/removeOuter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/skylines.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skylines.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/validParen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/validParen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/removeOuter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rangeSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/addTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/longestSubString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-              <folding>
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#917#918#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1027#1028#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1100#1101#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1185#1186#0" expanded="true" />
-                <element signature="e#1231#1232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IBCS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,52 +56,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/removeOuter.java" />
-        <option value="$PROJECT_DIR$/src/rangeSum.java" />
-        <option value="$PROJECT_DIR$/src/addTwo.java" />
-        <option value="$PROJECT_DIR$/src/longestSubString.java" />
-        <option value="$PROJECT_DIR$/src/palindrome.java" />
-        <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/ConwayGameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/IBCS.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1713" />
-    <option name="width" value="1734" />
-    <option name="height" value="1407" />
-  </component>
+  <component name="ProjectId" id="1UmIzmgVpEDo8KUEo7agNahyIJN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -222,69 +82,80 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Code\RandomWork\Work" />
       <recent name="H:\Code\RandomWork\Work\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.IBCS">
-    <configuration name="ConwayGameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConwayGameOfLife" />
+  <component name="RunManager" selected="Application.LinkedIntTest">
+    <configuration name="BookProbCh14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookProbCh14" />
       <module name="Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IBCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IBCS" />
+    <configuration name="LinkedIntTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedIntTest" />
       <module name="Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="addTwo" />
+    <configuration name="SeniorAssasin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SeniorAssasin" />
       <module name="Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestSubString" />
+    <configuration name="memoryMapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memoryMapped" />
       <module name="Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindrome" />
+    <configuration name="postFix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postFix" />
       <module name="Work" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BookProbCh14" />
+      <item itemvalue="Application.memoryMapped" />
+      <item itemvalue="Application.postFix" />
+      <item itemvalue="Application.SeniorAssasin" />
+      <item itemvalue="Application.LinkedIntTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IBCS" />
-        <item itemvalue="Application.ConwayGameOfLife" />
-        <item itemvalue="Application.palindrome" />
-        <item itemvalue="Application.longestSubString" />
-        <item itemvalue="Application.addTwo" />
+        <item itemvalue="Application.LinkedIntTest" />
+        <item itemvalue="Application.SeniorAssasin" />
+        <item itemvalue="Application.BookProbCh14" />
+        <item itemvalue="Application.postFix" />
+        <item itemvalue="Application.memoryMapped" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -305,12 +176,20 @@
       <workItem from="1556606305670" duration="104000" />
       <workItem from="1557954698992" duration="143000" />
       <workItem from="1567745454518" duration="951000" />
-      <workItem from="1568495028806" duration="531000" />
+      <workItem from="1568495028806" duration="1155000" />
+      <workItem from="1571293813150" duration="552000" />
+      <workItem from="1571294411920" duration="88000" />
+      <workItem from="1572921121370" duration="1355000" />
+      <workItem from="1573013507412" duration="1733000" />
+      <workItem from="1573177706192" duration="2119000" />
+      <workItem from="1573505552244" duration="2461000" />
+      <workItem from="1573782614453" duration="2844000" />
+      <workItem from="1575054842467" duration="252000" />
+      <workItem from="1575955192503" duration="118000" />
+      <workItem from="1575955616638" duration="57000" />
+      <workItem from="1575955712860" duration="4925000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,150 +200,69 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771804" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="SciView" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="answer" />
-      </configuration>
-    </watches-manager>
+  <component name="WindowStateProjectService">
+    <state x="2034" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575956534484">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2034" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575956534484" />
+    <state width="1674" height="273" key="GridCell.Tab.0.bottom" timestamp="1575961065980">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="273" key="GridCell.Tab.0.bottom/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065980" />
+    <state width="1674" height="273" key="GridCell.Tab.0.center" timestamp="1575961065980">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="273" key="GridCell.Tab.0.center/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065980" />
+    <state width="1674" height="273" key="GridCell.Tab.0.left" timestamp="1575961065979">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="273" key="GridCell.Tab.0.left/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065979" />
+    <state width="1674" height="273" key="GridCell.Tab.0.right" timestamp="1575961065980">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="273" key="GridCell.Tab.0.right/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065980" />
+    <state width="1674" height="467" key="GridCell.Tab.1.bottom" timestamp="1575961065977">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="467" key="GridCell.Tab.1.bottom/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065977" />
+    <state width="1674" height="467" key="GridCell.Tab.1.center" timestamp="1575961065977">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="467" key="GridCell.Tab.1.center/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065977" />
+    <state width="1674" height="467" key="GridCell.Tab.1.left" timestamp="1575961065977">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="467" key="GridCell.Tab.1.left/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065977" />
+    <state width="1674" height="467" key="GridCell.Tab.1.right" timestamp="1575961065977">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="467" key="GridCell.Tab.1.right/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575961065977" />
+    <state x="1960" y="471" key="SettingsEditor" timestamp="1575956035721">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1960" y="471" key="SettingsEditor/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575956035721" />
+    <state x="2167" y="641" key="com.intellij.ide.util.TipDialog" timestamp="1575955726422">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2167" y="641" key="com.intellij.ide.util.TipDialog/1760.-1080.1920.1040/-160.-1080.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1575955726422" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/findCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/removeOuter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rangeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/addTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/longestSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1100#1101#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1185#1186#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConwayGameOfLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IBCS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/memoryMapped.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="masterDetails">
     <states>
